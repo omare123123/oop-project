@@ -1,0 +1,14 @@
+D:\الشروق\Finaaal\Finaaal\bin\Debug\Finaaal.exe.config
+D:\الشروق\Finaaal\Finaaal\bin\Debug\Finaaal.exe
+D:\الشروق\Finaaal\Finaaal\bin\Debug\Finaaal.pdb
+D:\الشروق\Finaaal\Finaaal\obj\Debug\Finaaal.csprojAssemblyReference.cache
+D:\الشروق\Finaaal\Finaaal\obj\Debug\Finaaal.Form1.resources
+D:\الشروق\Finaaal\Finaaal\obj\Debug\Finaaal.Properties.Resources.resources
+D:\الشروق\Finaaal\Finaaal\obj\Debug\Finaaal.T_rex.resources
+D:\الشروق\Finaaal\Finaaal\obj\Debug\Finaaal.trex.resources
+D:\الشروق\Finaaal\Finaaal\obj\Debug\Finaaal.XO.resources
+D:\الشروق\Finaaal\Finaaal\obj\Debug\Finaaal.csproj.GenerateResource.cache
+D:\الشروق\Finaaal\Finaaal\obj\Debug\Finaaal.csproj.CoreCompileInputs.cache
+D:\الشروق\Finaaal\Finaaal\obj\Debug\Finaaal.exe
+D:\الشروق\Finaaal\Finaaal\obj\Debug\Finaaal.pdb
+D:\الشروق\Finaaal\Finaaal\obj\Debug\Finaaal.Form2.resources
